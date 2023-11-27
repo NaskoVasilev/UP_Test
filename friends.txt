@@ -2,3 +2,4 @@
 - remove friend
 - bugfix
 - see all friends
+- getMyFriends
