@@ -1,3 +1,4 @@
 - add friend
 - remove friend
+- bugfix
 - see all friends
