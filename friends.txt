@@ -1,0 +1,3 @@
+- add friend
+- remove friend
+- see all friends
