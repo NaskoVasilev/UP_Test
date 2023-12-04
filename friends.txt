@@ -3,3 +3,4 @@
 - bugfix
 - see all friends
 - getMyFriends
+- add new functionality
