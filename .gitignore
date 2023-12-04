@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/local/forbidden_for_commit.txt
+/Facebook_BG/.vs/Facebook_BG
